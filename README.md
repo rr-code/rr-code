@@ -3,7 +3,7 @@
 **B.Tech CSE (Hons. Financial Technology) @ SRM Institute of Science and Technology** · CGPA 9.51
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-rastogi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/riya-rastogi-ab557a323)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:riya271206@gmail.com)
 [![Achievements](https://img.shields.io/badge/Full_Portfolio-181717?style=flat&logo=github&logoColor=white)](https://github.com/rr-code/achievements)
 
