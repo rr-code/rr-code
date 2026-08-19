@@ -1,4 +1,4 @@
-# Hi, I'm Riya 👋
+# Hi, I'm Riya ⭐
 
 **B.Tech CSE (Hons. Financial Technology) @ SRM Institute of Science and Technology** · CGPA 9.51
 
@@ -97,11 +97,4 @@ Helped organise a 2-day national industry–academia conclave, managing logistic
 
 ---
 
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rr-code&show_icons=true&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rr-code&layout=compact&hide_border=true)
-
----
-
-📄 Full details and certificates → **[github.com/rr-code/achievements](https://github.com/rr-code/achievements)**
